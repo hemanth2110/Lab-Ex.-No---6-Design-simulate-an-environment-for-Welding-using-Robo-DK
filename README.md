@@ -133,8 +133,7 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 SIMULATION :
 ![3](https://github.com/hemanth2110/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/121078629/1154e544-378d-40e5-97d4-47c5927fc75f)
 ![4](https://github.com/hemanth2110/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/121078629/35078f14-8178-40fd-928c-6fb03972d0e5)
-
-### R![5](https://github.com/hemanth2110/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/121078629/05e091f7-7a83-4443-bcbb-6e3c58360d04)
+![5](https://github.com/hemanth2110/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/121078629/05e091f7-7a83-4443-bcbb-6e3c58360d04)
 
 
 Result :
